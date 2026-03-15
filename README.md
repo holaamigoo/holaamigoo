@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <em><strong style="font-size: 150px;"> ✨ just chill out ✨</strong></em>
-</p>
-
 <div align="center">
   <div>
     <img src="https://tenor.com/ru/view/black-cat-kat-kitty-kitten-gif-13899401102203481106" width="45%" height="300"/>
