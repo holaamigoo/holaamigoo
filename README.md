@@ -1,5 +1,4 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+get+this+degree+ദ്ദി ༎ຶ‿༎ຶ ))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=get+degree+or+die+tryin’+💀🎓)](https://git.io/typing-svg)
 <div align="center">
   <div>
     <img src="https://media1.tenor.com/m/GRWLL3o-sYMAAAAd/sea-lion-sped-up.gif" width="45%" height="300"/>
